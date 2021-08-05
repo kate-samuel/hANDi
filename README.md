@@ -1,2 +1,2 @@
 # hANDi
-[] Hello, I'm Handy Draconis
+> Hello, I'm Handy Draconis
